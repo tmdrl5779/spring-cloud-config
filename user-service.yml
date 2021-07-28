@@ -8,7 +8,8 @@ spring:
 # token:
 #   expiration_time: 86400000
 #   secret: '{cipher}AQBrc39frKopUqtmHlSdMyUf0ocVTpD2g+0Ipvde39DSnGNB81wD0yFaq6SxSa3TbhqeC7gU/1bK8EYNiP2pIx4TOg+wKAhR/TCrGvGK+v0hsYwZRBE/Ku4RAG7bAbeg30aDWXb01dzBCT5xHJOMs0HkFZr6kVQ8m+0bY0ib9jC2PMMfyYDAysgYUX8pz0WlZY8pJvU9+k/bZuU/xDmLwb82twF0mno5ag5F9hY4EHJ+L/XsvcKlLjsOsGZ/s1idc2rQPOzNT7Dv4MJp+Tf61wLPfY8SEIH4A38wQp9J8h2AR/ub5aX+lyxOWKCLyMG9yhwDCTB+Gt3OVmt/sYQaemPcP1jJSnddqaZuz4xC4WyoSYEumbHiKjoSNRcOLh8BPrQbxiVB279WmJggyGgheMI2'
-hi: 
+user:
+  ip: 172.30.1.42
 
 gateway:
   # ip: 172.18.0.5
