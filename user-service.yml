@@ -13,7 +13,8 @@ user:
 
 gateway:
   # ip: 172.18.0.5
-  ip: 172.30.1.42
+  # ip: 172.30.1.42
+  ip: 192.168.0.7
 
 order_service:
   url: http://order-service/order-service/%s/orders #게이트웨이 안거침
