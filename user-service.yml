@@ -11,7 +11,7 @@ spring:
 hi: 
 
 gateway:
-  ip: 192.168.0.7
+  ip: 172.18.0.5
 
 order_service:
   url: http://order-service/order-service/%s/orders #게이트웨이 안거침
